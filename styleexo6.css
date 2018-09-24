@@ -1,0 +1,48 @@
+div{
+  float: left;
+}
+#green{
+  background-color: green;
+  height: 50px;
+  width:80%;
+}
+#blue{
+  background-color: blue;
+  height: 50px;
+  width:20%;
+}
+#red{
+  background-color: red;
+  height: 100px;
+  width:33%;
+}
+#orange{
+  background-color: orange;
+  height: 50px;
+  width:33%;
+}
+#grey{
+  background-color: grey;
+  height: 50px;
+  width:34%;
+}
+#yellow{
+  background-color: yellow;
+  height: 50px;
+  width:22%;
+}
+#cyan{
+  background-color: cyan;
+  height: 50px;
+  width:22%;
+}
+#brown{
+  background-color: brown;
+  height: 50px;
+  width:23%;
+}
+#black{
+  background-color: black;
+  height: 150px;
+  width:100%;
+}
